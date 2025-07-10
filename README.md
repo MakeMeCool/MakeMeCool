@@ -7,8 +7,6 @@
 
 ---
 
-<img align="right" width="250" src="https://media.giphy.com/media/3o7TKu8RvQuomFfUUU/giphy.gif" alt="Cool Techy GIF" />
-
 ## 🌑 About Me
 
 - 🎥 Video Editor & Photographer by passion

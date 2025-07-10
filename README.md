@@ -31,7 +31,7 @@
 
 ## 🌟 Featured Projects
 
-### [Project Gradle](https://github.com/MakeMeCool/ProjectGradle)
+### [Project Gradle](https://github.com/GlazeOS-devices)
 > ⚙️ My favorite project for managing and automating builds with Gradle.
 
 ### [Be Incinble](https://github.com/MakeMeCool/Be-Incinble)
@@ -42,7 +42,6 @@
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/MakeMeCool)
-- (Add LinkedIn, Twitter, or website here if you want!)
 
 ---
 
